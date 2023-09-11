@@ -1,0 +1,22 @@
+body {
+  background: #eecda3;
+  background: -webkit-linear-gradient(to right, #eecda3, #ef629f);
+  background: linear-gradient(to right, #eecda3, #ef629f);
+  min-height: 100vh;
+}
+
+img{
+  max-width: 100%;
+}
+
+.form-control{width: auto !important;}
+
+h4{font-size: 14px !important;}
+
+table{margin-top: 5%;}
+
+.alert{
+  text-align: center;
+    margin: 15% 100%;
+    width: 100%;
+}
